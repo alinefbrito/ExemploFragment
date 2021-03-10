@@ -1,0 +1,25 @@
+
+<resources>
+    <string name="app_name">Exemplo Fragment App </string>
+
+    <!-- Texto Activity -->
+    <string name="title1">titulo 1</string>
+    <string name="article1" translatable="false">texto1 texto1 texto1 texto1 texto1 texto1 texto1 texto1 texto1 </string>
+    <string name="title2">Texto 2</string>
+    <string name="article2">texto2 texto2 texto2 texto2 texto2 vtexto2 texto2 texto2 texto2 texto2 texto2 texto2 </string>
+
+    <!-- Text do fragment. -->
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="yes_message">Curtir</string>
+    <string name="no_message">Agradecer</string>
+    <string name="question_article">Curtir o Artigo ? </string>
+
+    <!-- Texto botão Fragment -->
+    <string name="open">Abrir</string>
+    <string name="close">Fechar</string>
+
+    <!-- Tratamento de exceção -->
+    <string name="exception_message">implementar o Listener</string>
+    <string name="imagedescription">imagem fofa de exemplo</string>
+</resources>
